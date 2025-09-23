@@ -18,7 +18,7 @@ Publicaremos os códigos em Jupyter notebook, não enviaremos os dados utilizado
 
 
 
-\*\*Autor\*\*: Clarissa Dias 
+*Autor*: Clarissa Dias 
 
 Laboratório de Controle e Qualidade do Ar - LCQAR 
 
